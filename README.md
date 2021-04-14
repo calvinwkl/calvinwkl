@@ -1,4 +1,4 @@
-![Calvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvinwkl&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=darcula)
+![Calvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvinwkl&hide=contribs,prs,issues&count_private=true&show_icons=true&hide_rank=true&theme=darcula)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinwkl&theme=darcula&layout=compact)
 
