@@ -1,7 +1,3 @@
-![Calvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvinwkl&hide=contribs,prs,issues&count_private=true&show_icons=true&hide_rank=true&theme=slateorange)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinwkl&theme=slateorange&layout=compact)
-
 <!--
 **calvinwkl/calvinwkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
